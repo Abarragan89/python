@@ -5,7 +5,7 @@ winning_ticket = []
 my_ticket = ['s', '3']
 """loop condition and counter set to zero"""
 activate = True
-counter = 0
+counter = 4
 print(counter) 
 
 while activate:
